@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    width: 1140px;
+    padding: 12px 80px;
+    margin: auto;
+  }
+  h1 {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 700;
+  }
+  footer {
+    padding: 48px 0;
+    background-color: #53389E;
+  }
+  
+  #thePinkOne {
+    margin: 0;
+  }
+  #thePinkOne, #thePinkOneInMainPlace {
+    color: #FF5DA3;
+  }
+  
+  
+  .logo {
+    display: inline-block;
+    padding: 13px;
+    vertical-align: middle;
+  }
+  .navigation {
+    display: inline-block;
+    margin: 0 171px;
+    vertical-align: middle;
+  }
+  .nav_items {
+    margin-left: 20px;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .contact_us {
+    border-radius: 8px;
+    background-color: #00AC25;
+    padding: 8px 16px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    border: 0;
+    vertical-align: middle;
+  }
+  .main_place {
+    width: 1316px;
+    margin: 221px auto;
+  }
+  .main_place_p {
+    color: #000;
+    text-align: center;
+    font-family: "IBM Plex Sans KR";
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .main_place_heading {
+    color: #000;
+    text-align: center;
+    font-family: "Instrument Sans";
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .main_place_second_p {
+    color: #6941C6;
+    text-align: center;
+    font-family: "Hind Vadodara";
+    font-size: 24px;
+    line-height: 32px; 
+    width: 716px;
+    margin: auto;
+  }
+  .main_place_button {
+    display: block;
+    margin: auto;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    border: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .margin_top {
+    margin-top: 24px;
+  }
+  .footer_place {
+    padding: 0 32px;
+    margin: auto;
+    width: 1216px;
+  }
+  .footer_navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 152px;
+  }
+  .footer_nav_items {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-left: 32px;
+  }
+  .copyright_txt {
+    color: #D6BBFB;
+    text-align: right;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+    width: 160px;
+    vertical-align: middle;
+  }
+  .footer_logo {
+    height: 32px;
+    vertical-align: middle;
+  }
